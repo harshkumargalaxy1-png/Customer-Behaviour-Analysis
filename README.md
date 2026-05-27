@@ -25,10 +25,7 @@ This project provides a comprehensive end-to-end data analytics workflow designe
 * **Key Metrics:** Total Revenue, Active Customer Count, Average Order Value, and Segment Distribution.
 * **Features:** Interactive filtering by time period, region, and product category.
 
-## Results
-* Identified [X]% of customers as "Champions" contributing to the majority of revenue.
-* Discovered a [Y]% churn risk in [Segment Name], enabling targeted retention strategies.
-* Optimized inventory planning based on identified product affinity trends.
+
 
 ## How to Run
 1.  **Clone the Repository:** `git clone [repository-url]`
