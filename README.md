@@ -1,4 +1,4 @@
-readme_content = """# Customer Behaviour Analysis
+# Customer Behaviour Analysis
 
 ## Overview
 This project provides a comprehensive end-to-end data analytics workflow designed to uncover customer purchasing patterns, segment high-value users, and identify trends that drive business decision-making. By leveraging a multi-tool approach, this project transforms raw transactional data into actionable strategic insights.
